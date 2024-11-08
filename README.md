@@ -1,3 +1,6 @@
+
+![Linux for](https://github.com/user-attachments/assets/81b5431c-bbc4-4b11-be69-853c2b96f3cb)
+
 # Linux Zero to Hero for Data Engineering 🚀
 
 Welcome to the **Linux Zero to Hero for Data Engineering** repository! This guide is designed to empower data engineers by teaching essential Linux skills for managing data, automating ETL workflows, batch processing, and real-time streaming automation.
