@@ -1,0 +1,13 @@
+ETL and Data Engineering Projects - End-to-End Pipelines
+
+Topics:
+
+- Building ETL pipelines with Linux commands, integrating with SQL, S3, and other storage
+
+- Creating ETL jobs using Bash to collect and transform raw data, then load into databases (PostgreSQL, MySQL)
+
+- Configuring and monitoring daily ETL jobs using Cron, handling both batch and streaming tasks
+
+- Scheduling and managing tasks across data engineering pipelines
+
+- Integrating Bash scripts with Python or Rust for complex data processing

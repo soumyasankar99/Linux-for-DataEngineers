@@ -1,0 +1,13 @@
+Streaming Automation - Real-Time Data Processing
+
+Topics:
+
+- Introduction to streaming data and Linux-based tools for handling real-time workflows
+
+- Streaming data processing using tools like netcat for testing, Kafka for real-time data, or shell scripting
+
+- Building scripts to manage real-time data streams, capture logs, and preprocess data
+
+- Setting up automated data listeners to monitor incoming data
+
+- Basic performance monitoring for streaming applications (CPU, memory usage)

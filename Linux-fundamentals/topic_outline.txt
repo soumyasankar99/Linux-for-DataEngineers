@@ -1,0 +1,13 @@
+Foundation - Linux Essentials for Data Engineering
+
+Topics:
+
+- Importance of Linux in data engineering
+
+- Basic commands (ls, pwd, cd, cp, mv, rm, etc.) to manage files and directories
+
+- File permissions and user management for secure data storage
+
+- Navigating the Linux filesystem for efficient data processing
+
+- Introduction to file permissions and user access management
