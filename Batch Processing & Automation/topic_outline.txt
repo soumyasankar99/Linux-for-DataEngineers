@@ -1,0 +1,13 @@
+Batch Processing and Automation - Scripting for Data Pipelines
+
+Topics:
+
+- Writing Bash scripts to automate batch processing for data pipelines
+
+- Batch ETL automation: extracting, transforming, and loading data from sources to destinations
+
+- Scheduling data processing tasks with Cron jobs for daily, weekly, or monthly workflows
+
+- Integrating data collection, transformation, and storage steps in Bash scripts
+
+- Error handling and logging in automated workflows for fault tolerance

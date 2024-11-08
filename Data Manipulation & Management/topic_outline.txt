@@ -1,0 +1,13 @@
+Data Manipulation and Management - Working with Big Data Files
+
+Topics:
+
+- Advanced file handling with commands like grep, awk, sed for text data filtering and transformations
+
+- Processing large files using Linux utilities (split, sort, uniq)
+
+- Automating data extraction from text-based data sources (e.g., logs, CSVs, JSON)
+
+- Basic regular expressions for data cleaning and transformation
+
+- Networking basics for transferring data securely across servers (SSH, SCP)
